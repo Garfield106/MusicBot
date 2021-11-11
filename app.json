@@ -1,5 +1,5 @@
 {
-    "name": "Song Downloader Bot",
+    "name": "Music🎵 Downloader Bot",
     "description": "A bot that can download song you want.",
     "logo": "https://telegra.ph/file/4501aa5bd83bdcefa658d.jpg",
     "keywords": [
@@ -13,15 +13,15 @@
     "success_url": "https://t.me/Infinity_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "2136238567:AAGhWe7N6Uuj5_xxK9TTILzNxeVtMgUFfT4",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "8d9fe29a4cee02867cbd2567f2387632",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org",
+            "description": "18917117",
             "value": ""
         }
     },
